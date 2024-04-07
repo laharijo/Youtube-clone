@@ -1,6 +1,6 @@
 # Responsive YouTube Clone
 
-Responsive YouTube Clone-ytclone.png
+Responsive YouTube Clone - ytclone.png
 
 A responsive YouTube clone crafted with HTML and CSS.
 
